@@ -3,7 +3,7 @@
 - Till 46:00 --- has intuition of CI CD pipeline wrt ML project I think 
 
 - CRITICAL - 46:00 onwards --- shows a nice professional way of creating the following directory structure on laptop/github:
-    - 'src' folder which contains the code (this is the code which we update from time to time and when we do a git push it triggers the whole Github Actions CI CD pipeline I guess)
+    - 'src' folder which contains the code (we update the code in this folder on the laptop from time to time and when we git push it to the remote Github server in the cloud, it will trigger that whole Github Actions CI CD pipeline I guess)
     - 'test' folder which contains all the Unit Test files
     - README.md file
     - requirements.txt file 
